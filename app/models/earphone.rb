@@ -1,0 +1,2 @@
+class Earphone < Accessory
+end
